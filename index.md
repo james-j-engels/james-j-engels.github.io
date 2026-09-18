@@ -12,8 +12,9 @@ In my last name the second "E" comes before the "L", the same as [my distant rel
 
 ## Research Interests
 
-- **Formal Semantics:** tense-aspect-modality, definiteness, lexical semantics
-- **Typology:** parameters of variation in word and morpheme order and meaning
+- **Formal Semantics:** tense-aspect-modality, conditionals, definiteness, lexical semantics
+- **Typology:** word/morpheme order and scope, syntactic variation
+- **Areas:** Patagonia, East Africa (esp. Nilotic), Mainland Southeast Asia
 
 ## Fieldwork Languages
 - **Active:** Mapudungun, Sengwer-Cherang'any

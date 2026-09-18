@@ -4,20 +4,24 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a 3rd year Ph.D. student in the Department of Linguistics at the University of Edinburgh. I study meaning, time, and the ways things {are, could be, should be, must be...}: I use formal methods to examine how languages encode time and modality in their grammar, and the boundaries of that variation across languages. 
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Formal Semantics:** tense-aspect-modality, definiteness, lexical semantics
+- **Typology:** parameters of variation in word and morpheme order and meaning
 
+## Fieldwork Languages
+- **Active Projects:** Mapudungun, Sengwer-Cherang'any
+- **Dormant Projects:** Tashelhit
+- **Other Languages:** Vietnamese, Tibetan, 
+  
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
-
+- **[Jan. 2027]** I will be joining the linguistics department at Harvard University for the second semester of this year as a fellow.   
+- **[Sep. 2026]** I gave a talk about Mapudungun frustratives at Sinn und Bedeutung 31 in Nantes.
+- **[Jul. 2026]** I presented with [Federico Falletti](https://edwebprofiles.ed.ac.uk/profile/federico-f) on tense stacking and conditionals in Sengwer at the 16th ALT in Lyon.
+  
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}

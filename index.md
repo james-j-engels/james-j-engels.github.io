@@ -23,7 +23,7 @@ In my last name the second "E" comes before the "L", the same as [my distant rel
 ## Updates
 
 - **[Jan. 2027]** I will be joining the linguistics department at Harvard University as a fellow from January to May of 2027.
-- **[Sep. 2026]** I gave a talk at the Linguistics Association of Great Britain about the meaning of the Tashelhit morpheme AD.  
+- **[Sep. 2026]** I gave a talk at the Linguistics Association of Great Britain about the meaning of the Tashelhiyt morpheme AD.  
 - **[Sep. 2026]** I gave a talk about Mapudungun frustratives at *Sinn und Bedeutung 31* in Nantes.
 - **[Jul. 2026]** I presented with [Federico Falletti](https://edwebprofiles.ed.ac.uk/profile/federico-f) on tense stacking and conditionals in Sengwer at the 16th ALT in Lyon.
   

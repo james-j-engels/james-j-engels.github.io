@@ -2,9 +2,9 @@
 layout: homepage
 ---
 
-## About Me
+## Bio
 
-I am a 3rd year Ph.D. student in the Department of Linguistics at the University of Edinburgh. I study meaning, time, and the ways things {are, could be, should be, used to be...}, specifically how languages encode these concepts in their grammar, and the boundaries of that variation across languages. In my case, that means doing fine-grained lexical semantics of individual morphemes in understudied languages. 
+I am a 3rd year Ph.D. student in the Department of Linguistics at the University of Edinburgh, supervised by [Wataru Uegaki](https://www.wataruuegaki.com/), [Dan Lassiter](https://danlassiter2.github.io/), and [Ben Molineaux](https://benmolineaux.ppls.ed.ac.uk/). I study meaning, time, and the ways things {are, could be, should be, used to be...}, specifically how languages encode these concepts in their grammar, and the boundaries of that variation across languages. In my case, that means doing fine-grained lexical semantics of individual morphemes in understudied languages. 
 
 In the past I have worked on [small language models for Modern Tibetan](https://www.researchgate.net/publication/389451316_Leveraging_Large_Language_Models_in_Low-resourced_Language_NLP_A_spaCy_Implementation_for_Modern_Tibetan). From time to time I can still be found working on historical linguistics in Sino-Tibetan languages.
 

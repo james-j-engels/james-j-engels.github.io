@@ -13,19 +13,22 @@
     {% if link.conference_short %} 
     <abbr class="badge">{{ link.conference_short }}</abbr>
     {% endif %}
-    {% if link.journal_short %} 
-    <abbr class="badge">{{ link.journal_short }}</abbr>
-    {% endif %}
     {% endif %}
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
+      <div class="title">
+        {% if link.pdf %}
+        <a href="{{ link.pdf }}">{{ link.title }}</a>
+        {% else %}
+        {{ link.title }}
+        {% endif %}
+      </div>
       <div class="author">{{ link.authors }}</div>
       <div class="periodical">
         {% if link.journal %}
         {{ link.journal }}
         {% else %}
-        <em>{{ link.conference }}</em>
+        {{ link.conference }}
         {% endif %}
       </div>
     <div class="links">
@@ -71,20 +74,23 @@
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     {% if link.image %} 
     <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width=100;height=40%">
+    {% if link.conference_short %} 
+    <abbr class="badge">{{ link.conference_short }}</abbr>
+    {% endif %}
     {% endif %}
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
+      <div class="title">{{ link.title }}</div>
       <div class="author">{{ link.authors }}</div>
       <div class="periodical">
         {% if link.venue %}
         {{ link.venue }}
         {% endif %}
+        {% if link.expected %}
+        {{ link.expected }}
+        {% endif %}
       </div>
     <div class="links">
-      {% if link.pdf %} 
-      <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      {% endif %}
       {% if link.status %} 
       <strong> <i style="color:#e74d3c">{{ link.status }}</i></strong>
       {% endif %}
@@ -118,7 +124,13 @@
     {% endif %}
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="{{ link.slides }}">{{ link.title }}</a></div>
+      <div class="title">
+        {% if link.slides %}
+        <a href="{{ link.slides }}">{{ link.title }}</a>
+        {% else %}
+        {{ link.title }}
+        {% endif %}
+      </div>
       <div class="author">{{ link.authors }}</div>
       <div class="periodical"><em>{{ link.conference }}</em>
       </div>

@@ -3,18 +3,18 @@
 <div class="publications">
 <ol class="bibliography">
 
-{% for link in site.data.publications.articles %}
+{% for link in site.data.publications.articles limit: 3 %}
 
 <li>
 <div class="pub-row">
+  {% if link.image %}
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    {% if link.image %} 
     <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width=100;height=40%">
     {% if link.conference_short %} 
     <abbr class="badge">{{ link.conference_short }}</abbr>
     {% endif %}
-    {% endif %}
   </div>
+  {% endif %}
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title">
         {% if link.pdf %}
@@ -59,6 +59,9 @@
 {% endfor %}
 
 </ol>
+{% if site.data.publications.articles.size > 3 %}
+<p style="margin: 0px 0px 10px; font-size: 0.95rem;"><em>Selected; see my <a href="{{ site.cv_link }}"><autocolor>CV</autocolor></a> for the full list.</em></p>
+{% endif %}
 </div>
 
 
@@ -67,18 +70,18 @@
 <div class="publications">
 <ol class="bibliography">
 
-{% for link in site.data.publications.in_prep %}
+{% for link in site.data.publications.in_prep limit: 3 %}
 
 <li>
 <div class="pub-row">
+  {% if link.image %}
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    {% if link.image %} 
     <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width=100;height=40%">
     {% if link.conference_short %} 
     <abbr class="badge">{{ link.conference_short }}</abbr>
     {% endif %}
-    {% endif %}
   </div>
+  {% endif %}
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title">{{ link.title }}</div>
       <div class="author">{{ link.authors }}</div>
@@ -103,6 +106,9 @@
 {% endfor %}
 
 </ol>
+{% if site.data.publications.in_prep.size > 3 %}
+<p style="margin: 0px 0px 10px; font-size: 0.95rem;"><em>Selected; see my <a href="{{ site.cv_link }}"><autocolor>CV</autocolor></a> for the full list.</em></p>
+{% endif %}
 </div>
 
 
@@ -111,18 +117,18 @@
 <div class="publications">
 <ol class="bibliography">
 
-{% for link in site.data.publications.presentations %}
+{% for link in site.data.publications.presentations limit: 3 %}
 
 <li>
 <div class="pub-row">
+  {% if link.image %}
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    {% if link.image %} 
     <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width=100;height=40%">
     {% if link.conference_short %} 
     <abbr class="badge">{{ link.conference_short }}</abbr>
     {% endif %}
-    {% endif %}
   </div>
+  {% endif %}
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title">
         {% if link.slides %}
@@ -153,4 +159,7 @@
 {% endfor %}
 
 </ol>
+{% if site.data.publications.presentations.size > 3 %}
+<p style="margin: 0px 0px 10px; font-size: 0.95rem;"><em>Selected; see my <a href="{{ site.cv_link }}"><autocolor>CV</autocolor></a> for the full list.</em></p>
+{% endif %}
 </div>

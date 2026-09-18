@@ -2,6 +2,12 @@
 
 articles:
 
+  - title: "Cross-Linguistic Dataset of Force-Flavor Combinations in Modal Elements"
+    authors: Wataru Uegaki, Anne Mucha, <strong>James J. Engels</strong>, Ella Hannon, Fred Whibley
+    journal_short: LV
+    journal: <em>Linguistic Variation</em> 25(2), pp. 269–302, 2025.
+    year: 2025
+
   - title: "Developing a Semantic Search Engine for Modern Tibetan"
     authors: <strong>James J. Engels</strong>, Robert Barnett
     journal_short: RET
@@ -18,12 +24,6 @@ articles:
     authors: Robert Barnett, <strong>James J. Engels*</strong> (*Equal contribution)
     journal_short: RET
     journal: <em>Revue d'Études Tibétaines</em> 74, pp. 5–43, 2025.
-    year: 2025
-
-  - title: "Cross-Linguistic Dataset of Force-Flavor Combinations in Modal Elements"
-    authors: Wataru Uegaki, Anne Mucha, <strong>James J. Engels</strong>, Ella Hannon, Fred Whibley
-    journal_short: LV
-    journal: <em>Linguistic Variation</em> 25(2), pp. 269–302, 2025.
     year: 2025
 
   - title: "Negative Modality in Hausa, Thai and Kîîtharaka"

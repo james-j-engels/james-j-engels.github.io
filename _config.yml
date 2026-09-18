@@ -8,12 +8,12 @@ email: jengels (at) ed dot ac dot uk
 # The following information is used to improve the website traffic from search engines, e.g., Google.
 keywords: james engels linguist edinburgh semantics morphology
 description: Personal website for the linguist James (J.) Engels
-canonical: https://minimal-light-theme.yliu.me/
+canonical: https://james-j-engels.github.io/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
 google_scholar: https://scholar.google.com/citations?user=VnNoKD4AAAAJ&hl=en
-cv_link: assets/files/curriculum_vitae.pdf
+cv_link: ./assets/files/Engels_CV.pdf
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 

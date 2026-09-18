@@ -81,7 +81,6 @@ presentations:
     conference_short: ALT 16
     conference: Conference of the Association for Linguistic Typology 16, Université Lumière Lyon 2, July 2026.
     year: 2026
-    slides: ./assets/slides/engels-falletti-alt16-sengwer.pdf
 
   - title: "Qiangic Interrelatedness and Macro-Gyalrongic: New Data from Songlin"
     authors: <strong>James J. Engels</strong>, Tim Bodt
@@ -121,7 +120,7 @@ presentations:
   - title: "Building a Context-Sensitive Search System for a Low-Resource Language"
     authors: <strong>James J. Engels</strong>
     conference_short: Mirrors to History
-    conference: "Mirrors to History: NLP and Historical Newsprint", Leipzig, November 2025.
+    conference: "Mirrors to History: NLP and Historical Newsprint, Leipzig, November 2025."
     year: 2025
     notes: Invited talk
 

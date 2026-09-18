@@ -8,7 +8,7 @@ I am a 3rd year Ph.D. student in the Department of Linguistics at the University
 
 In the past I have worked on [small language models for Modern Tibetan](https://www.researchgate.net/publication/389451316_Leveraging_Large_Language_Models_in_Low-resourced_Language_NLP_A_spaCy_Implementation_for_Modern_Tibetan). From time to time I can still be found working on historical linguistics in Sino-Tibetan languages.
 
-In my last name the second "E" comes before the "L". It is the same as that of [my distant relative](https://en.wikipedia.org/wiki/Friedrich_Engels). I invite any fellow travelers named Marx working in linguistics or allied fields (mathematics, philosophy, etc.) to contact me for an urgent collaboration. 
+In my last name the second "E" comes before the "L", the same as [my distant relative](https://en.wikipedia.org/wiki/Friedrich_Engels). Any fellow travelers named Marx working in linguistics or allied fields (mathematics, philosophy, etc.) are strongly encouraged to contact me for an urgent collaboration. 
 
 ## Research Interests
 

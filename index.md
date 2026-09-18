@@ -16,9 +16,9 @@ In my last name the second "E" comes before the "L", the same as [my distant rel
 - **Typology:** word/morpheme order and scope, syntactic variation
 - **Areas:** Patagonia, East Africa (esp. Nilotic), Mainland Southeast Asia
 
-## Fieldwork Languages
-- **Active:** Mapudungun, Sengwer-Cherang'any
-- **Dormant:** Tashelhit, Vietnamese
+## Research Languages
+- **Active:** Mapudungun, Sengwer-Cherang'any, Vietnamese
+- **Past:** Tashelhiyt, Sylheti
   
 ## Updates
 

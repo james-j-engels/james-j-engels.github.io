@@ -1,22 +1,169 @@
-# main:
+articles:
 
-#   - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-#     authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-#     conference_short: MICCAI
-#     conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-#     pdf: https://arxiv.org/pdf/2306.00988.pdf
-#     code: https://github.com/MrGiovanni/ContinualLearning
-#     bibtex: https://bib.yliu.me/MICCAI23.txt
-#     image: ./assets/img/teaser_example_2.png
-#     notes: Early Accept
+  - title: "Xiesheng Imputation: A New Computational Method for Studying Old Chinese Phonology"
+    authors: <strong>James J. Engels</strong>
+    journal_short: CLAO
+    journal: <em>Cahiers de Linguistique Asie Orientale</em>.
+    year: 2027
+    notes: In revision
 
-#   - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-#     authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-#     conference_short: CVPR
-#     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-#     pdf: https://arxiv.org/pdf/2002.10211.pdf
-#     code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-#     page: https://class-il.mpi-inf.mpg.de/mnemonics/
-#     bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-#     notes: Oral Presentation
-#     image: ./assets/img/teaser_example.png
+  - title: "Developing a Semantic Search Engine for Modern Tibetan"
+    authors: <strong>James J. Engels</strong>, Robert Barnett
+    journal_short: RET
+    journal: <em>Revue d'Études Tibétaines</em> 74, pp. 261–283, 2025.
+    year: 2025
+
+  - title: "LLMs in Low-Resourced Language NLP: Developing a spaCy Modern Tibetan Language Model from Scratch"
+    authors: Yuki Kyogoku, Franz Xaver Erhard, <strong>James J. Engels</strong>, Robert Barnett
+    journal_short: RET
+    journal: <em>Revue d'Études Tibétaines</em> 74, pp. 187–220, 2025.
+    year: 2025
+
+  - title: "Rules, Vectors and Transformers: Approaches to Text-Mining for Modern Tibetan"
+    authors: Robert Barnett, <strong>James J. Engels*</strong> (*Equal contribution)
+    journal_short: RET
+    journal: <em>Revue d'Études Tibétaines</em> 74, pp. 5–43, 2025.
+    year: 2025
+
+  - title: "Cross-Linguistic Dataset of Force-Flavor Combinations in Modal Elements"
+    authors: Wataru Uegaki, Anne Mucha, <strong>James J. Engels</strong>, Ella Hannon, Fred Whibley
+    journal_short: LV
+    journal: <em>Linguistic Variation</em> 25(2), pp. 269–302, 2025.
+    year: 2025
+
+  - title: "Negative Modality in Hausa, Thai and Kîîtharaka"
+    authors: Anne Mucha, <strong>James J. Engels</strong>, Fred Whibley, Wataru Uegaki
+    conference_short: TripleA 10
+    conference: <em>Proceedings of TripleA 10</em>, pp. 1–17. University of Potsdam, 2024.
+    year: 2024
+
+
+presentations:
+
+  # --------------------
+  # Abstract-reviewed talks
+  # --------------------
+
+  - title: "Inaccessible and Undesirable Situations"
+    authors: <strong>James J. Engels</strong>
+    conference_short: SuB 31
+    conference: Sinn und Bedeutung 31, Nantes Université, September 2026.
+    year: 2026
+    slides: ./assets/files/presentations/Engels-SuB-2026.pdf
+    notes: Full paper to appear in accompanying proceedings
+
+  - title: "De-Particularization as Primitive: Evidence from Tashelhiyt Berber"
+    authors: <strong>James J. Engels</strong>, Atticus W. Mulligan
+    conference_short: LAGB 2026
+    conference: Annual Meeting of the Linguistics Association of Great Britain, University of Edinburgh, September 2026.
+    year: 2026
+    slides: ./assets/files/presentations/Engels-LAGB-2026.pdf
+
+  - title: "Proximatives, Tense, and Event Sequencing in Kalenjin"
+    authors: <strong>James J. Engels</strong>
+    conference_short: CALL 55
+    conference: 55th Colloquium on African Languages and Linguistics, Leiden University, August 2026.
+    year: 2026
+
+  - title: "Graded Tense, Temporal Reference, and Counterfactuality in Sengwer"
+    authors: <strong>James J. Engels</strong>, Federico Falletti
+    conference_short: ALT 16
+    conference: Conference of the Association for Linguistic Typology 16, Université Lumière Lyon 2, July 2026.
+    year: 2026
+    slides: ./assets/slides/engels-falletti-alt16-sengwer.pdf
+
+  - title: "Songlin and Himalayan Connections to Proto-Hmong-Mien"
+    authors: <strong>James J. Engels</strong>
+    conference_short: SEALS 35
+    conference: 35th Meeting of the Southeast Asian Linguistics Society, Nanyang Technological University, June 2026.
+    year: 2026
+
+  - title: "Qiangic Interrelatedness and Macro-Gyalrongic: New Data from Songlin"
+    authors: <strong>James J. Engels</strong>, Tim Bodt
+    conference_short: ICHL 27
+    conference: 27th International Conference on Historical Linguistics, Pontificia Universidad Católica de Chile, August 2025.
+    year: 2025
+
+  - title: "Negative Modality in Hausa, Thai and Kîîtharaka"
+    authors: Anne Mucha, <strong>James J. Engels</strong>, Fred Whibley, Wataru Uegaki
+    conference_short: TripleA 10
+    conference: TripleA Workshop for Semantic Fieldworkers 10, University of Potsdam, June 2023.
+    year: 2023
+
+  - title: "Negative Modals Cross-Linguistically"
+    authors: Wataru Uegaki, Anne Mucha, <strong>James J. Engels</strong>, Fred Whibley
+    conference_short: MUL
+    conference: Workshop on Modality in Understudied Languages, Humboldt University of Berlin, April 2023.
+    year: 2023
+
+  - title: "Adopting Old Chinese Rhyme Orphans with Xiesheng Imputation"
+    authors: <strong>James J. Engels</strong>
+    conference_short: DMHLP
+    conference: International Workshop on Digital Methods in Historical Linguistics, Philology, and Palaeography, University of Vienna, April 2022.
+    year: 2022
+
+
+  # --------------------
+  # Invited talks
+  # --------------------
+
+  - title: "Tense and Aspect in Mapudungun"
+    authors: <strong>James J. Engels</strong>
+    conference_short: LAGB 2026
+    conference: Annual Meeting of the Linguistics Association of Great Britain, September 2026.
+    year: 2026
+    slides: ./assets/slides/engels-lagb2026-mapudungun-tutorial.pdf
+    notes: Invited language tutorial
+
+  - title: "Building a Context-Sensitive Search System for a Low-Resource Language"
+    authors: <strong>James J. Engels</strong>
+    conference_short: Mirrors to History
+    conference: Mirrors to History: NLP and Historical Newsprint, Leipzig, November 2025.
+    year: 2025
+    slides: ./assets/slides/engels-leipzig2025-tibetan-search.pdf
+    notes: Invited talk
+
+  - title: "Using Graph Theory to Compare Two Old Chinese Reconstruction Systems"
+    authors: <strong>James J. Engels</strong>, Nathan Hill
+    conference_short: Vienna
+    conference: Recent Advances in Digital Philology, University of Vienna, June 2023.
+    year: 2023
+    slides: ./assets/slides/engels-hill-vienna2023-graph-theory.pdf
+    notes: Invited talk
+
+  - title: "The Contribution of the Xiesheng Hypothesis to Competing Theories of the Old Chinese Vowel System"
+    authors: <strong>James J. Engels</strong>
+    conference_short: TCD
+    conference: Workshop on the Phonology of Han Dynasty Chinese, Trinity College Dublin, April 2022.
+    year: 2022
+    slides: ./assets/slides/engels-tcd2022-xiesheng-vowels.pdf
+    notes: Invited talk
+
+
+  # --------------------
+  # Internal talks
+  # --------------------
+
+  - title: "How Vietnamese Donkeys Commit the Perfect Crime: Program Repetition and Genericity via Indeterminate Pronouns"
+    authors: <strong>James J. Engels</strong>
+    conference_short: MGRG
+    conference: Meaning and Grammar Research Group, University of Edinburgh, November 2025.
+    year: 2025
+    slides: ./assets/slides/engels-mgrg2025-vietnamese-donkeys.pdf
+    notes: Internal talk
+
+  - title: "Songlin and the Gyalrongic Frontier"
+    authors: <strong>James J. Engels</strong>
+    conference_short: AMS
+    conference: Angus McIntosh Sessions, University of Edinburgh, April 2025.
+    year: 2025
+    slides: ./assets/slides/engels-ams2025-songlin.pdf
+    notes: Internal talk
+
+  - title: "Deontic Priority in the Lexicalization of Impossibility Modals"
+    authors: <strong>James J. Engels</strong>, Wataru Uegaki, Anne Mucha, Keyu Dong
+    conference_short: PPLS Research Day
+    conference: PPLS Research Day, University of Edinburgh, June 2024.
+    year: 2024
+    slides: ./assets/slides/engels-uegaki-mucha-dong-ppls2024.pdf
+    notes: Internal talk

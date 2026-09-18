@@ -1,11 +1,6 @@
-articles:
 
-  - title: "Xiesheng Imputation: A New Computational Method for Studying Old Chinese Phonology"
-    authors: <strong>James J. Engels</strong>
-    journal_short: CLAO
-    journal: <em>Cahiers de Linguistique Asie Orientale</em>.
-    year: 2027
-    notes: In revision
+
+articles:
 
   - title: "Developing a Semantic Search Engine for Modern Tibetan"
     authors: <strong>James J. Engels</strong>, Robert Barnett
@@ -38,21 +33,37 @@ articles:
     year: 2024
 
 
+in_prep:
+
+  - title: "Choice-functional frustrativity and the semantics of Mapudungun FU"
+    authors: <strong>James J. Engels</strong>
+    status: In prep
+
+  - title: "Tense, aspect, and transparent X-marking in Sengwer"
+    authors: <strong>James J. Engels</strong> and Federico Falletti
+    status: In prep
+
+  - title: "Xiesheng Imputation: A New Computational Method for Studying Old Chinese Phonology"
+    authors: <strong>James J. Engels</strong>
+    venue: <em>Cahiers de Linguistique Asie Orientale</em>
+    status: In revision
+    expected: 2027
+
 presentations:
 
   # --------------------
   # Abstract-reviewed talks
   # --------------------
 
-  - title: "Inaccessible and Undesirable Situations"
-    authors: <strong>James J. Engels</strong>
+  - title: "Variable Remoteness: the Morpho-semantics of Mapudungun FU"
+    authors: <strong>James Engels</strong>
     conference_short: SuB 31
     conference: Sinn und Bedeutung 31, Nantes Université, September 2026.
     year: 2026
     slides: ./assets/files/presentations/Engels-SuB-2026.pdf
     notes: Full paper to appear in accompanying proceedings
 
-  - title: "De-Particularization as Primitive: Evidence from Tashelhiyt Berber"
+  - title: "Building Modal Bases in Morphology: Evidence from Tashelhiyt Berber"
     authors: <strong>James J. Engels</strong>, Atticus W. Mulligan
     conference_short: LAGB 2026
     conference: Annual Meeting of the Linguistics Association of Great Britain, University of Edinburgh, September 2026.
@@ -71,12 +82,6 @@ presentations:
     conference: Conference of the Association for Linguistic Typology 16, Université Lumière Lyon 2, July 2026.
     year: 2026
     slides: ./assets/slides/engels-falletti-alt16-sengwer.pdf
-
-  - title: "Songlin and Himalayan Connections to Proto-Hmong-Mien"
-    authors: <strong>James J. Engels</strong>
-    conference_short: SEALS 35
-    conference: 35th Meeting of the Southeast Asian Linguistics Society, Nanyang Technological University, June 2026.
-    year: 2026
 
   - title: "Qiangic Interrelatedness and Macro-Gyalrongic: New Data from Songlin"
     authors: <strong>James J. Engels</strong>, Tim Bodt
@@ -102,7 +107,6 @@ presentations:
     conference: International Workshop on Digital Methods in Historical Linguistics, Philology, and Palaeography, University of Vienna, April 2022.
     year: 2022
 
-
   # --------------------
   # Invited talks
   # --------------------
@@ -112,7 +116,6 @@ presentations:
     conference_short: LAGB 2026
     conference: Annual Meeting of the Linguistics Association of Great Britain, September 2026.
     year: 2026
-    slides: ./assets/slides/engels-lagb2026-mapudungun-tutorial.pdf
     notes: Invited language tutorial
 
   - title: "Building a Context-Sensitive Search System for a Low-Resource Language"
@@ -120,7 +123,6 @@ presentations:
     conference_short: Mirrors to History
     conference: Mirrors to History: NLP and Historical Newsprint, Leipzig, November 2025.
     year: 2025
-    slides: ./assets/slides/engels-leipzig2025-tibetan-search.pdf
     notes: Invited talk
 
   - title: "Using Graph Theory to Compare Two Old Chinese Reconstruction Systems"
@@ -128,7 +130,6 @@ presentations:
     conference_short: Vienna
     conference: Recent Advances in Digital Philology, University of Vienna, June 2023.
     year: 2023
-    slides: ./assets/slides/engels-hill-vienna2023-graph-theory.pdf
     notes: Invited talk
 
   - title: "The Contribution of the Xiesheng Hypothesis to Competing Theories of the Old Chinese Vowel System"
@@ -136,7 +137,6 @@ presentations:
     conference_short: TCD
     conference: Workshop on the Phonology of Han Dynasty Chinese, Trinity College Dublin, April 2022.
     year: 2022
-    slides: ./assets/slides/engels-tcd2022-xiesheng-vowels.pdf
     notes: Invited talk
 
 
@@ -149,7 +149,6 @@ presentations:
     conference_short: MGRG
     conference: Meaning and Grammar Research Group, University of Edinburgh, November 2025.
     year: 2025
-    slides: ./assets/slides/engels-mgrg2025-vietnamese-donkeys.pdf
     notes: Internal talk
 
   - title: "Songlin and the Gyalrongic Frontier"
@@ -157,13 +156,4 @@ presentations:
     conference_short: AMS
     conference: Angus McIntosh Sessions, University of Edinburgh, April 2025.
     year: 2025
-    slides: ./assets/slides/engels-ams2025-songlin.pdf
-    notes: Internal talk
-
-  - title: "Deontic Priority in the Lexicalization of Impossibility Modals"
-    authors: <strong>James J. Engels</strong>, Wataru Uegaki, Anne Mucha, Keyu Dong
-    conference_short: PPLS Research Day
-    conference: PPLS Research Day, University of Edinburgh, June 2024.
-    year: 2024
-    slides: ./assets/slides/engels-uegaki-mucha-dong-ppls2024.pdf
     notes: Internal talk

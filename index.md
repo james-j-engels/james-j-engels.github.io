@@ -14,10 +14,10 @@ In my last name the second "E" comes before the "L", the same as [my distant rel
 
 - **Formal Semantics:** tense-aspect-modality, conditionals, definiteness, lexical semantics
 - **Typology:** word/morpheme order and scope, syntactic variation
-- **Areas:** Patagonia, East Africa (esp. Nilotic), Mainland Southeast Asia
+- **Areas:** Patagonia, East Africa (esp. Kalenjin languages), Mainland Southeast Asia
 
 ## Research Languages
-- **Active:** Mapudungun, Sengwer-Cherang'any, Vietnamese
+- **Active:** Mapudungun, Sengwer-Cherang'any, Vietnamese, Pökoot
 - **Past:** Tashelhiyt, Sylheti
   
 ## Updates
